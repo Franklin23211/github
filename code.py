@@ -1,1 +1,2 @@
 print("bokka")
+print("ok")
